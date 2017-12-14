@@ -14,3 +14,5 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
     { [key]: value }
   );
 }
+
+function 
