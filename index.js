@@ -7,3 +7,5 @@ function updateObjectWithKeyAndValue(object, key, value) {
     { [key]: value }
   );
 }
+
+function 
